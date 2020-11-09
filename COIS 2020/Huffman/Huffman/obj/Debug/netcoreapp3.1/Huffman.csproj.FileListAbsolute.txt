@@ -1,0 +1,26 @@
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csprojAssemblyReference.cache
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfoInputs.cache
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfo.cs
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.exe
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.deps.json
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.json
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.dev.json
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\mansu\source\repos\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\mansu\source\repos\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.genruntimeconfig.cache
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.exe
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.deps.json
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.json
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.dev.json
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\bin\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csprojAssemblyReference.cache
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfoInputs.cache
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfo.cs
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\mansu\Desktop\COIS 2020\Huffman\Huffman\obj\Debug\netcoreapp3.1\Huffman.genruntimeconfig.cache
