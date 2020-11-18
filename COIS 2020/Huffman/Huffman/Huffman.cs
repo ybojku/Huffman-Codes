@@ -3,21 +3,22 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using PriorityQueue;
 /// <summary>
-/// This is assignment 2. COIS 2020H. Huffman.
-/// 
-/// authors: Yllka Bokju and  Sam ...
+/// This assignment aims to implement the Huffman Algorithm that is used
+/// to encode and decode text. This will be done through the creation
+/// and manipulation of a binary tree as well as a priority queue. 
+/// Authors: Yllka Bokju and  Sam Chard
 /// </summary>
 namespace HuffmanProgram
 {
     //-----------------------------------------------------------------------
     /// <summary>
     /// Class name: Node
-    /// description: creates a node for the tree. it also implements CompareTo method.
+    /// Description: This class creates a node for the binary tree, and it also implements the CompareTo method.
     /// </summary>
     public class Node : IComparable
     {
         #region Field
-
+        // Properties
         public char Character { get; set; }
         public int Frequency { get; set; }
         public Node Left { get; set; }
@@ -25,6 +26,7 @@ namespace HuffmanProgram
         #endregion
 
         #region Constructor
+        // Constructor
         public Node(char character, int frequency, Node left, Node right)
         {
             Character = character;
@@ -35,6 +37,7 @@ namespace HuffmanProgram
         #endregion
 
         #region CompareTo
+        //CompareTo Method
         //Returns >0 if the current node has more frequency than obj
         //Returns 0 if the current node is equal to obj
         //Returns <0 if the current node is less than obj
@@ -57,8 +60,8 @@ namespace HuffmanProgram
     //------------------------------------------------------------------------
     /// <summary>
     /// Class name: Huffman
-    /// description: This class creates a binary tree using priority queue. It takes the string entered by the user and ecodes 
-    ///              it into 1's and 0's. which can also decode the 1's and 0's to string.
+    /// Description: This class creates a binary tree using priority queue. It takes the string entered by the user and ecodes 
+    ///              it into 1's and 0's. This class can also decode the 1's and 0's to a string.
     /// </summary>
     public class Huffman
     {
