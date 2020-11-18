@@ -56,7 +56,7 @@ namespace Priority
 namespace PriorityQueue
 {
     using Priority;
-
+     //IContainer interface
      public interface IContainer<T>
     {
         void MakeEmpty();  // Reset an instance to empty
@@ -65,7 +65,7 @@ namespace PriorityQueue
     }
 
     //-----------------------------------------------------------------------------
-
+    //IPriorityQueue interface
     public interface IPriorityQueue<T> : IContainer<T> where T : IComparable
     {
         void Add(T item);  // Add an item to a priority queue
